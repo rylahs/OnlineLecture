@@ -43,9 +43,9 @@
 
 
 ## 📍 Algorithm Progress Record
-[BOJ : miusha](https://github.com/rylahs/BOJ/blob/main/README.md)
-[현재 Gold III](https://www.acmicpc.net/user/miusha)
-[학습현황](https://github.com/rylahs/BOJ/blob/main/Plan/Plan.md)
+[BOJ : miusha](https://github.com/rylahs/BOJ/blob/main/README.md)    
+[현재 Gold III](https://www.acmicpc.net/user/miusha)    
+[학습현황](https://github.com/rylahs/BOJ/blob/main/Plan/Plan.md)    
 
 
 ### 현재 학습 진행도 (Plan.md와 동일)
