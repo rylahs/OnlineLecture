@@ -2,9 +2,9 @@
  온라인 강의 수강 상태 및 현황
 
 ## 📍 Progress Record
-|  | 플랫폼 | 강의명 | 언어 | 상태 |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | [Step](https://e-koreatech.step.or.kr/) | [머신러닝 수학(선형대수, 확률통계)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216921) | Math | [수료✅](./Step/Linear(K).pdf) |
+| # | 플랫폼 | 강의명 | 언어 | 기간 | 상태 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | [Step](https://e-koreatech.step.or.kr/) | [머신러닝 수학(선형대수, 확률통계)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216921) | Math | 2021.12.01 ~ 2021.12.31 | [수료✅](./Step/Linear(K).pdf) |
 
 | 업로드 횟수 | 표기 |
 | :---: | :---: |
