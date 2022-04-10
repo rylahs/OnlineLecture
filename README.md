@@ -51,7 +51,7 @@
 | 05 | [PyTorch로 배우는 머신러닝 알고리즘](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216911) | Python, ML | 2022.01.15 ~ 2022.02.14 | [수료✅](./Step/Pytorch(K).pdf) | [성적✅](./Step/Score/Pytorch(K).PNG) | 
 | 06 | [프로그래밍 언어 활용 part 1](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216911) | C | 2022.01.15 ~ 2022.02.14 | [수료✅](./Step/ProgrammingLanguage(K).pdf) | [성적✅](./Step/Score/ProgrammingLanguage(K).PNG) | 
 | 07 | [SQL 활용](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=217241) | Database | 2022.02.01 ~ 2022.02.28 | [수료✅](./Step/DataBase(K).pdf) | [성적✅](./Step/Score/DataBase(K).PNG) | 
-| 08 | [C# 프로그래밍](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216907) | C# | 2022.02.01 ~ 2022.02.28 | [수료✅](./Step/C#(K).pdf) | [성적✅](./Step/Score/C#(K).PNG) | 
+| 08 | [C# 프로그래밍](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216907) | C# | 2022.02.01 ~ 2022.02.28 | [수료✅](./Step/C#(K).pdf) | [성적✅](./Step/Score/Csharp(K).PNG) | 
 | 09 | [C++ 프로그래밍](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216905) | C++ | 2022.02.01 ~ 2022.02.28 | [수료✅](./Step/C++(K).pdf) | [성적✅](./Step/Score/C++(K).PNG) | 
 | 99 | [[디지털 기초역량 슬기로운 디지털 생활 (사이드 프로젝트 성공전략)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=205747) | Side | 2022.01.15 ~ 2022.02.14 | [수료✅](./Step/SideProject.pdf) | [성적✅](./Step/Score/Side(K).PNG) | 
 
