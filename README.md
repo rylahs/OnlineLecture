@@ -12,10 +12,11 @@
 | 06 | [모든 개발자를 위한 HTTP 웹 기본 지식(김영한)](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) | Network, Web, Back-End | 2022.03.31 ~ 진행중 | [25%진행중](#) | [25%진행중](#) |
 | 07 | [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1) | Back-End, Spring, MVC | 대기중❌ | [대기중](#) | [대기중](#) |
 | 08 | [스프링 MVC 2편 - 백엔드 웹 개발 활용 기술(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-2) | Back-End, Spring, MVC | 대기중❌ | [대기중](#) | [대기중](#) |
-| 09 | [스프링 핵심 원리 - 고급편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8) | Back-End, Spring, MVC | 대기중❌ | [대기중](#) | [대기중](#) |
-| 10 | [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94) | Back-End, Java, Spring, Spring Boot, JPA | 대기중❌ | [대기중](#) | [대기중](#) |
-| 11 | [실전! 스프링 데이터 JPA(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84) | Back-End, Java, Spring, Spring Boot, JPA | 대기중❌ | [대기중](#) | [대기중](#) |
-| 12 | [실전! Querydsl(김영한)](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) | Back-End, Java, jQuery, JPA | 대기중❌ | [대기중](#) | [대기중](#) |
+| 09 | [스프링 DB 1편 - 데이터 접근 핵심 원리(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1) | Spring, DB, Back-End | 대기중❌ | [대기중](#) | [대기중](#) |
+| 10 | [스프링 핵심 원리 - 고급편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8) | Back-End, Spring, MVC | 대기중❌ | [대기중](#) | [대기중](#) |
+| 11 | [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-API%EA%B0%9C%EB%B0%9C-%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94) | Back-End, Java, Spring, Spring Boot, JPA | 대기중❌ | [대기중](#) | [대기중](#) |
+| 12 | [실전! 스프링 데이터 JPA(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%8D%B0%EC%9D%B4%ED%84%B0-JPA-%EC%8B%A4%EC%A0%84) | Back-End, Java, Spring, Spring Boot, JPA | 대기중❌ | [대기중](#) | [대기중](#) |
+| 13 | [실전! Querydsl(김영한)](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) | Back-End, Java, jQuery, JPA | 대기중❌ | [대기중](#) | [대기중](#) |
 
 
 ## 📍 Game Progress Record
