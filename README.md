@@ -6,8 +6,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기(나동빈)](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | Java, JSP | 2022.03.17 ~ 2022.03.22 | [수료✅](./Inflearn/JSP/Complete.PNG) | [결과✅](https://github.com/rylahs/JSP-Board) |
 | 02 | [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) | Back-End, Java, Spring, MVC, Spring Boot | 2022.04.08 ~ 2022.04.10 | [수료✅](./Inflearn/Spring/0x01.BasicComplete.PNG) | [결과✅](https://github.com/rylahs/Study/tree/main/Spring/SpringBasic/hello-spring) |
-| 03 | [스프링 핵심 원리 - 기본편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8) | Back-End, Spring, OOP | 2022.03.02 ~ 진행중 | [진행중](#) | [진행중](#) |
-| 04 | [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1) | Back-End, Java, Spring, 웹앱, Spring Boot | 2022.03.02 ~ 진행중 | [52%진행중](#) | [52%진행중](#) |
+| 03 | [스프링 핵심 원리 - 기본편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8) | Back-End, Spring, OOP | 2022.04.10 ~ 진행중 | [63%진행중](#) | [63%진행중](#) |
+| 04 | [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-JPA-%ED%99%9C%EC%9A%A9-1) | Back-End, Java, Spring, 웹앱, Spring Boot | 2022.04.08 ~ 진행중 | [52%진행중](#) | [52%진행중](#) |
 | 05 | [자바 ORM 표준 JPA 프로그래밍 - 기본편(김영한)](https://www.inflearn.com/course/ORM-JPA-Basic) | Java, JPA | 대기중❌ | [대기중](#) | [대기중](#) |
 | 06 | [모든 개발자를 위한 HTTP 웹 기본 지식(김영한)](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) | Network, Web, Back-End | 2022.03.31 ~ 진행중 | [25%진행중](#) | [25%진행중](#) |
 | 07 | [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1) | Back-End, Spring, MVC | 대기중❌ | [대기중](#) | [대기중](#) |
@@ -28,7 +28,7 @@
 | 05 | [언리얼 엔진4 입문 (C++ 기반)(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-%EC%97%94%EC%A7%844-%EC%9E%85%EB%AC%B8) | Game, Unreal Engine, UE Blueprints, C++ | 대기중 | [대기중](#) | [대기중](#) |
 | 06 | [C++20 훑어보기(Rookiss)](https://www.inflearn.com/course/%EC%94%A8%EC%81%A0%EC%81%A0-20-%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0) | C++ | 대기중 | [대기중](#) | [대기중](#) |
 | 07 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 Part1: C# 기초 프로그래밍 입문(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-MMORPG-%EA%B0%9C%EB%B0%9C-part1) | C#, Game | 2022.04.03 ~ 진행중 | [60%진행중](#) | [60%진행중](#) |
-| 08 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 Part2: 자료구조와 알고리즘(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-mmorpg-%EA%B0%9C%EB%B0%9C-part2) | Data Structure, C#, Game | 대기중 | [대기중](#) | [대기중](#) |
+| 08 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 Part2: 자료구조와 알고리즘(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-mmorpg-%EA%B0%9C%EB%B0%9C-part2) | Data Structure, C#, Game | 진행중 | [64%진행중](#) | [64%진행중](#) |
 | 09 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 Part3: 유니티 엔진(Rookiss)](https://www.inflearn.com/course/mmorpg-%EC%9C%A0%EB%8B%88%ED%8B%B0) | C#, Unity, Game | 대기중 | [대기중](#) | [대기중](#) |
 | 10 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 Part4: 게임 서버(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-mmorpg-%EA%B0%9C%EB%B0%9C-part4) | C#, Unity, Network, Game | 2022.03.21 ~ 진행중 | [70%진행중](#) | [70%진행중](#) |
 | 11 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 Part5: 데이터베이스(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-mmorpg-%EA%B0%9C%EB%B0%9C-part5) | SQL, DBMS/RDBMS | 2022.03.31 ~ 진행중 | [30%진행중](#) | [30%진행중](#) |
