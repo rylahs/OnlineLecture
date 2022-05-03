@@ -2,7 +2,7 @@
  온라인 강의 수강 상태 및 현황
 
 ## 📍 Web Progress Record
-| # | Title | &nbsp;&nbsp;Time&nbsp;&nbsp; | Language | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status | Result |
+| # | Title | &nbsp;&nbsp;Time&nbsp;&nbsp; | Language | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status | Result |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기(나동빈)](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | ![100%](https://progress-bar.dev/15/?scale=15&width=60&color=babaca&suffix=/15) </br> 2h 13m | Java, JSP | 22.03.17 ~ 22.03.22 | [✅](./Inflearn/JSP/Complete.PNG) | [✅](https://github.com/rylahs/JSP-Board) |
 | 02 | [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) | ![100%](https://progress-bar.dev/28/?scale=28&width=60&color=babaca&suffix=/28) </br> 5h 21m | BE, Java, Spring, MVC, Spring Boot | 22.04.08 ~ 22.04.10 | [✅](./Inflearn/Spring/0x01.BasicComplete.PNG) | [✅](https://github.com/rylahs/Study/tree/main/Spring/SpringBasic/hello-spring) |
