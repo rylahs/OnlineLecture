@@ -3,7 +3,7 @@
 
 ## 📍 Web Progress Record
 | # | Title | Time | Language | Term | Status | Result |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :----: | :---: | :---: | :---: | :---: |
 | 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기(나동빈)](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | ![100%](https://progress-bar.dev/15/?scale=15&width=50&color=babaca&suffix=/15) </br> 2h 13m | Java, JSP | 2022.03.17 ~ 2022.03.22 | [수료✅](./Inflearn/JSP/Complete.PNG) | [결과✅](https://github.com/rylahs/JSP-Board) |
 | 02 | [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) | ![100%](https://progress-bar.dev/28/?scale=28&width=50&color=babaca&suffix=/28) </br> 5h 21m | BE, Java, Spring, MVC, Spring Boot | 2022.04.08 ~ 2022.04.10 | [수료✅](./Inflearn/Spring/0x01.BasicComplete.PNG) | [결과✅](https://github.com/rylahs/Study/tree/main/Spring/SpringBasic/hello-spring) |
 | 03 | [스프링 핵심 원리 - 기본편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8) | ![100%](https://progress-bar.dev/65/?scale=65&width=50&color=babaca&suffix=/65) </br> 12h 7m | BE, Spring, OOP | 2022.03.02 ~ 2022.03.15 </br> 2022.04.11 ~ 2022.04.19 | [수료✅](https://www.inflearn.com/certificate/693269-325969-10292316) | [결과✅](#) |
@@ -21,7 +21,7 @@
 
 ## 📍 Game Progress Record
 | # | Title | Time | Language | Term | Status | Result |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :----: | :---: | :---: | :---: | :---: |
 | 01 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1: C++ 프로그래밍 입문(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-1) | 100/112, 38h 27m | C++ | 2022.03.21 ~ 2022.03.31 | [89.28%](#) | [89.28%](#) |
 | 02 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part2: 게임 수학과 DirectX12(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-2) | 4/59, 1h 25m | Game, DirectX, GameMath, C++ | 2022.04.08 ~ 2022.04.12 </br> 2022.05.02 ~ ing  | [6.78%](#) | [6.78%](#) |
 | 03 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part3: 자료구조와 알고리즘(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-3) | 7/39, 2h 3m | Game, Algorithm,  C++ | 2022.03.27 ~ 2022.04.01 </br> ing | [17.94%](#) | [17.94%](#) |
