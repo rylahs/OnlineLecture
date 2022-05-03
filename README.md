@@ -59,7 +59,7 @@
 s
 ## 📍 Algorithm Progress Record
 [BOJ : miusha](https://github.com/rylahs/BOJ/blob/main/README.md)    
-[현재 Gold II](https://www.acmicpc.net/user/miusha)    
+[현재 Gold II 상위 14.4%](https://solved.ac/profile/miusha)    
 [학습현황](https://github.com/rylahs/BOJ/blob/main/Plan/Plan.md)    
 
 
