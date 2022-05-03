@@ -39,15 +39,15 @@
 | 15 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 Part9: MMO 컨텐츠 구현 (DB연동 + 대형 구조 + 라이브 준비)(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-mmorpg-%EA%B0%9C%EB%B0%9C-part9) | ![100%](https://progress-bar.dev/0/?scale=39&width=45&color=babaca&suffix=/39) </br> 0h 0m | Game, MMORPG | ❌ | [❌](#) | [❌](#) |
 | 16 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 번외편: AWS로 시작하는 서버 운영(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-mmorpg-%EA%B0%9C%EB%B0%9C-aws) | ![100%](https://progress-bar.dev/0/?scale=28&width=45&color=babaca&suffix=/28) </br> 0h 0m | AWS, Linux | ❌ | [❌](#) | [❌](#) |
 | 17 | [C#과 유니티로 만드는 MMORPG 게임 개발 시리즈 번외편: ASP.NET Core 심화편(Rookiss)](https://www.inflearn.com/course/%EC%9C%A0%EB%8B%88%ED%8B%B0-mmorpg-%EA%B0%9C%EB%B0%9C-aspnet) | ![100%](https://progress-bar.dev/0/?scale=20&width=45&color=babaca&suffix=/20) </br> 0h 0m | ASP.NET CORE, MVC | ❌ | [❌](#) | [❌](#) |
-| 18 | [뇌를 자극하는 윈도우즈 시스템 프로그래밍(윤성우)](https://www.inflearn.com/course/%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | ![100%](https://progress-bar.dev/8/?scale=60&width=45&color=babaca&suffix=/60) </br> 2h 34m | C, Windows | 2021.04.03 ~ 22.04.07 </br> ing | [:hammer:](#) | [:hammer:](#) |
+| 18 | [뇌를 자극하는 윈도우즈 시스템 프로그래밍(윤성우)](https://www.inflearn.com/course/%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | ![100%](https://progress-bar.dev/8/?scale=60&width=45&color=babaca&suffix=/60) </br> 2h 34m | C, Windows | 21.04.03 ~ 22.04.07 </br> ing | [:hammer:](#) | [:hammer:](#) |
 
 
 ## 📍 E-learning Progress Record
 | # | 강의명 | 언어 | 기간 | 상태 | 결과물 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 01 | [머신러닝 수학(선형대수, 확률통계)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216921) | Math | 2021.12.01 ~ 2021.12.31 | [✅](./Step/Linear(K).pdf) | [✅](./Step/Score/Linear(K).PNG) |  
-| 02 | [리눅스 서버 구축(기본)](https://portal.e-koreatech.ac.kr/page/lms?m1=course%25&m2=course_detail%25&course_id=61198%25&code=1120%25&page=4%25) | Linux | 2021.12.01 ~ 2021.12.31 | [✅](./Step/Linear(K).pdf) | [✅](./Step/Score/Linux(K).PNG) | 
-| 03 | [머신러닝 수학(미분학)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216923) | Math | 2021.12.01 ~ 2021.12.31 | [✅](./Step/Calculus(K).pdf) | [✅](./Step/Score/Calculus(K).PNG) | 
+| 01 | [머신러닝 수학(선형대수, 확률통계)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216921) | Math | 21.12.01 ~ 21.12.31 | [✅](./Step/Linear(K).pdf) | [✅](./Step/Score/Linear(K).PNG) |  
+| 02 | [리눅스 서버 구축(기본)](https://portal.e-koreatech.ac.kr/page/lms?m1=course%25&m2=course_detail%25&course_id=61198%25&code=1120%25&page=4%25) | Linux | 21.12.01 ~ 21.12.31 | [✅](./Step/Linear(K).pdf) | [✅](./Step/Score/Linux(K).PNG) | 
+| 03 | [머신러닝 수학(미분학)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216923) | Math | 21.12.01 ~ 21.12.31 | [✅](./Step/Calculus(K).pdf) | [✅](./Step/Score/Calculus(K).PNG) | 
 | 04 | [TensorFlow로 배우는 머신러닝 알고리즘](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216911) | Python, ML | 22.01.01 ~ 22.01.31 | [✅](./Step/Tensorflow(K).pdf) | [✅](./Step/Score/Tensorflow(K).PNG) | 
 | 05 | [PyTorch로 배우는 머신러닝 알고리즘](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216911) | Python, ML | 22.01.15 ~ 22.02.14 | [✅](./Step/Pytorch(K).pdf) | [✅](./Step/Score/Pytorch(K).PNG) | 
 | 06 | [프로그래밍 언어 활용 part 1](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216911) | C | 22.01.15 ~ 22.02.14 | [✅](./Step/ProgrammingLanguage(K).pdf) | [✅](./Step/Score/ProgrammingLanguage(K).PNG) | 
@@ -56,7 +56,7 @@
 | 09 | [C++ 프로그래밍](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216905) | C++ | 22.02.01 ~ 22.02.28 | [✅](./Step/C++(K).pdf) | [✅](./Step/Score/C++(K).PNG) | 
 | 99 | [[디지털 기초역량 슬기로운 디지털 생활 (사이드 프로젝트 성공전략)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=205747) | Side | 22.01.15 ~ 22.02.14 | [✅](./Step/SideProject.pdf) | [✅](./Step/Score/Side(K).PNG) | 
 
-
+s
 ## 📍 Algorithm Progress Record
 [BOJ : miusha](https://github.com/rylahs/BOJ/blob/main/README.md)    
 [현재 Gold III](https://www.acmicpc.net/user/miusha)    
