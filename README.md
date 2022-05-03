@@ -59,13 +59,16 @@
 s
 ## 📍 Algorithm Progress Record
 [BOJ : miusha](https://github.com/rylahs/BOJ/blob/main/README.md)    
-[현재 Gold III](https://www.acmicpc.net/user/miusha)    
+[현재 Gold II](https://www.acmicpc.net/user/miusha)    
 [학습현황](https://github.com/rylahs/BOJ/blob/main/Plan/Plan.md)    
 
 
 ### 현재 학습 진행도 (Plan.md와 동일)
+
+Last Update Date : 2022.05.03 22:37    
+
 한눈에 보기    
-![100%](https://progress-bar.dev/176/?scale=420&title=progress&width=500&color=babaca&suffix=/420)      
+![100%](https://progress-bar.dev/184/?scale=423&title=progress&width=500&color=babaca&suffix=/423)      
 0x00. 오리엔테이션  
 ![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)  
 0x01. 기초 코드 작성 요령 I  
@@ -81,28 +84,28 @@ s
 0x06. [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)  
 ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)  
 0x07. [덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)    
-![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)  
+![100%](https://progress-bar.dev/3/?scale=4&title=progress&width=500&color=babaca&suffix=/4)  
 0x08. [스택의 활용(수식의 괄호 쌍)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)  
 ![100%](https://progress-bar.dev/5/?scale=5&title=progress&width=500&color=babaca&suffix=/5)  
 0x09. [BFS(Breadth First Search)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md)  
-![100%](https://progress-bar.dev/15/?scale=27&title=progress&width=500&color=babaca&suffix=/27)  
+![100%](https://progress-bar.dev/15/?scale=30&title=progress&width=500&color=babaca&suffix=/30)  
 0x0A. DFS  
 0x0B. [재귀](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0B.md)  
 ![100%](https://progress-bar.dev/6/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  
 0x0C. [백트래킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)  
 ![100%](https://progress-bar.dev/14/?scale=20&title=progress&width=500&color=babaca&suffix=/20)  
 0x0D. [시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)  
-![100%](https://progress-bar.dev/1/?scale=61&title=progress&width=500&color=babaca&suffix=/61)  
+![100%](https://progress-bar.dev/1/?scale=60&title=progress&width=500&color=babaca&suffix=/60)  
 0x0E. [정렬 I](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)  
 ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)  
 0x0F. [정렬 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)  
 ![100%](https://progress-bar.dev/9/?scale=9&title=progress&width=500&color=babaca&suffix=/9)  
 0x10. [다이나믹 프로그래밍(DP)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)  
-![100%](https://progress-bar.dev/31/?scale=44&title=progress&width=500&color=babaca&suffix=/44)  
+![100%](https://progress-bar.dev/32/?scale=44&title=progress&width=500&color=babaca&suffix=/44)  
 0x11. [그리디(Greedy)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)  
 ![100%](https://progress-bar.dev/5/?scale=17&title=progress&width=500&color=babaca&suffix=/17)  
 0x12. [수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)  
-![100%](https://progress-bar.dev/11/?scale=39&title=progress&width=500&color=babaca&suffix=/39)  
+![100%](https://progress-bar.dev/13/?scale=39&title=progress&width=500&color=babaca&suffix=/39)  
 0x13. [이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)  
 ![100%](https://progress-bar.dev/5/?scale=21&title=progress&width=500&color=babaca&suffix=/21)  
 0x14. [투 포인터](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md)  
@@ -114,7 +117,7 @@ s
 0x17. [우선순위 큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x17.md)  
 ![100%](https://progress-bar.dev/5/?scale=8&title=progress&width=500&color=babaca&suffix=/8)  
 0x18. [그래프](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md)  
-![100%](https://progress-bar.dev/1/?scale=13&title=progress&width=500&color=babaca&suffix=/13)  
+![100%](https://progress-bar.dev/5/?scale=13&title=progress&width=500&color=babaca&suffix=/13)  
 0x19. [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md)  
 ![100%](https://progress-bar.dev/1/?scale=13&title=progress&width=500&color=babaca&suffix=/13)  
 0x1A. [위상정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)  
@@ -131,6 +134,7 @@ s
 0x21. 비트마스킹  
 0x22. union find  
 0x23. 다이나믹 프로그래밍 심화  
+
 
 
 
