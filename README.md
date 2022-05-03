@@ -20,9 +20,9 @@
 
 
 ## 📍 Game Progress Record
-| # | Title | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | Language | Term | Status | Result |
+| # | Title | &nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | Language | Term | Status | Result |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 01 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1: C++ 프로그래밍 입문(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-1) | ![100%](https://progress-bar.dev/100/?scale=112&width=48&color=babaca&suffix=/112) </br> 38h 27m | C++ | 22.03.21 ~ 22.03.31 | [89.28%](#) | [89.28%](#) |
+| 01 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1: C++ 프로그래밍 입문(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-1) | ![100%](https://progress-bar.dev/100/?scale=112&width=51&color=babaca&suffix=/112) </br> 38h 27m | C++ | 22.03.21 ~ 22.03.31 | [89.28%](#) | [89.28%](#) |
 | 02 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part2: 게임 수학과 DirectX12(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-2) | ![100%](https://progress-bar.dev/4/?scale=59&width=45&color=babaca&suffix=/59) </br> 1h 25m | Game, DirectX, GameMath, C++ | 22.04.08 ~ 22.04.12 </br> 22.05.02 ~ ing  | [6.78%](#) | [6.78%](#) |
 | 03 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part3: 자료구조와 알고리즘(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-3) | ![100%](https://progress-bar.dev/7/?scale=39&width=45&color=babaca&suffix=/39) </br> 2h 3m | Game, Algorithm,  C++ | 22.03.27 ~ 22.04.01 </br> ing | [17.94%](#) | [17.94%](#) |
 | 04 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part4: 게임 서버(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-4) | ![100%](https://progress-bar.dev/13/?scale=80&width=45&color=babaca&suffix=/80) </br> 4h 8m | Game, Windows Server, Network, MMORPG, C++ | 22.03.21 ~ 22.03.31 </br> ing | [16.25%](#) | [16.25%](#) |
