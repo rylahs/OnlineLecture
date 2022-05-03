@@ -1,7 +1,7 @@
 # Online Lecture
  온라인 강의 수강 상태 및 현황
 
-## 📍 Web Progress Record
+## 📍 Web Progress Record (S : Status / R : Result)
 | # | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Language&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | S | R |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | ![100%](https://progress-bar.dev/15/?scale=15&width=60&color=babaca&suffix=/15) </br> 2h 13m | Java, JSP | 22.03.17 ~ 22.03.22 | [✅](./Inflearn/JSP/Complete.PNG) | [✅](https://github.com/rylahs/JSP-Board) |
@@ -19,7 +19,7 @@
 | 13 | [실전! Querydsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) | ![100%](https://progress-bar.dev/0/?scale=41&width=60&color=babaca&suffix=/41) </br> 0h 0m | Back-End, Java, jQuery, JPA | ❌ | [❌](#) | [❌](#) |
 
 
-## 📍 Game Progress Record
+## 📍 Game Progress Record (S : Status / R : Result)
 | # | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Language&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | S | R |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1: C++ 프로그래밍 입문](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-1) | ![100%](https://progress-bar.dev/100/?scale=112&width=51&color=babaca&suffix=/112) </br> 38h 27m | C++ | 22.03.21 ~ 22.03.31 | [:hammer:](#) | [:hammer:](#) |
@@ -42,7 +42,7 @@
 | 18 | [뇌를 자극하는 윈도우즈 시스템 프로그래밍](https://www.inflearn.com/course/%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) | ![100%](https://progress-bar.dev/8/?scale=60&width=45&color=babaca&suffix=/60) </br> 2h 34m | C, Windows | 21.04.03 ~ 22.04.07 </br> ing | [:hammer:](#) | [:hammer:](#) |
 
 
-## 📍 E-learning Progress Record
+## 📍 E-learning Progress Record (S : Status / R : Result)
 | # | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Language | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | S | R |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [머신러닝 수학(선형대수, 확률통계)](https://e-koreatech.step.or.kr/page/lms/?m1=course%25&m2=course_detail%25&course_id=216921) | Math | 21.12.01 ~ 21.12.31 | [✅](./Step/Linear(K).pdf) | [✅](./Step/Score/Linear(K).PNG) |  
