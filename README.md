@@ -20,7 +20,7 @@
 
 
 ## 📍 Game Progress Record
-| # | Title | &nbsp;&nbsp;Time&nbsp;&nbsp; | Language | Term | Status | Result |
+| # | Title | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | Language | Term | Status | Result |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1: C++ 프로그래밍 입문(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-1) | ![100%](https://progress-bar.dev/100/?scale=112&width=45&color=babaca&suffix=/112) </br> 38h 27m&nbsp; | C++ | 22.03.21 ~ 22.03.31 | [89.28%](#) | [89.28%](#) |
 | 02 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part2: 게임 수학과 DirectX12(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-2) | ![100%](https://progress-bar.dev/4/?scale=59&width=45&color=babaca&suffix=/59) </br> 1h 25m | Game, DirectX, GameMath, C++ | 22.04.08 ~ 22.04.12 </br> 22.05.02 ~ ing  | [6.78%](#) | [6.78%](#) |
