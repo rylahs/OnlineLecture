@@ -1,7 +1,7 @@
 # Online Lecture
- 온라인 강의 수강 상태 및 현황
-
-## 📍 Web Progress Record (S : Status / R : Result)
+ 온라인 강의 수강 상태 및 현황    
+ 총 수강 시간 : 136 Hours 52 Minutes
+## 📍 Web Progress Record (S : Status / R : Result) : Listen Time : 54 Hours 35 Minutes
 | # | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Language&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | S | R |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | ![100%](https://progress-bar.dev/15/?scale=15&width=60&color=babaca&suffix=/15) </br> 2h 13m | Java, JSP | 22.03.17 ~ 22.03.22 | [✅](./Inflearn/JSP/Complete.PNG) | [✅](https://github.com/rylahs/JSP-Board) |
@@ -19,7 +19,7 @@
 | 13 | [실전! Querydsl](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) | ![100%](https://progress-bar.dev/0/?scale=41&width=60&color=babaca&suffix=/41) </br> 0h 0m | Back-End, Java, jQuery, JPA | ❌ | [❌](#) | [❌](#) |
 
 
-## 📍 Game Progress Record (S : Status / R : Result)
+## 📍 Game Progress Record (S : Status / R : Result) : Listen Time : 82 Hours 17 Minutes
 | # | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Language&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | S | R |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1: C++ 프로그래밍 입문](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-1) | ![100%](https://progress-bar.dev/100/?scale=112&width=51&color=babaca&suffix=/112) </br> 38h 27m | C++ | 22.03.21 ~ 22.03.31 | [:hammer:](#) | [:hammer:](#) |
