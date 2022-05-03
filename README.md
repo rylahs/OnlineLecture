@@ -2,7 +2,7 @@
  온라인 강의 수강 상태 및 현황
 
 ## 📍 Web Progress Record
-| # | 강의명 | 강의시간 | 언어 | 기간 | 상태 | 결과물 |
+| # | Title | Time | Lang | Term | Status | Result |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기(나동빈)](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | 15/15, 2h 13m | Java, JSP | 2022.03.17 ~ 2022.03.22 | [수료✅](./Inflearn/JSP/Complete.PNG) | [결과✅](https://github.com/rylahs/JSP-Board) |
 | 02 | [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) | 28/28, 5h 21m | Back-End, Java, Spring, MVC, Spring Boot | 2022.04.08 ~ 2022.04.10 | [수료✅](./Inflearn/Spring/0x01.BasicComplete.PNG) | [결과✅](https://github.com/rylahs/Study/tree/main/Spring/SpringBasic/hello-spring) |
@@ -20,7 +20,7 @@
 
 
 ## 📍 Game Progress Record
-| # | 강의명 | 강의시간 | 언어 | 기간 | 상태 | 결과물 |
+| # | Title | Time | Lang | Term | Status | Result |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part1: C++ 프로그래밍 입문(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-1) | 100/112, 38h 27m | C++ | 2022.03.21 ~ 2022.03.31 | [89.28%](#) | [89.28%](#) |
 | 02 | [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈 Part2: 게임 수학과 DirectX12(Rookiss)](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-3d-mmorpg-2) | 4/59, 1h 25m | Game, DirectX, GameMath, C++ | 2022.04.08 ~ 2022.04.12 </br> 2022.05.02 ~ ing  | [6.78%](#) | [6.78%](#) |
