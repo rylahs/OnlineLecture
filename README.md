@@ -1,8 +1,8 @@
 # Online Lecture
  온라인 강의 수강 상태 및 현황    
- 총 수강 시간 : 136 Hours 52 Minutes
+ 총 수강 시간 : 141 Hours 14 Minutes
 ## 📍 Web Progress Record (S : Status / R : Result) 
-###   Listen Time : 54 Hours 35 Minutes
+###   Listen Time : 58 Hours 57 Minutes
 | # | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Time&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Language&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Term&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | S | R |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 01 | [누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기](https://www.inflearn.com/course/jsp-%EA%B2%8C%EC%8B%9C%ED%8C%90) | ![100%](https://progress-bar.dev/15/?scale=15&width=60&color=babaca&suffix=/15) </br> 2h 13m | Java, JSP | 22.03.17 ~ 22.03.22 | [✅](./Inflearn/JSP/Complete.PNG) | [✅](https://github.com/rylahs/JSP-Board) |
